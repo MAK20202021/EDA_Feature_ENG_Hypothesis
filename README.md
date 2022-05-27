@@ -9,6 +9,8 @@ Exploratory Data Analysis (EDA) is the crucial process of using summary statisti
 Feature Engineering is a critical part of the successful Machine Learning project, it involves three steps: feature transformation (transforming the original features), feature selection (selecting the most useful features to train on), and feature extraction (combining existing features to produce more useful ones). Categorical Variables are transferred by One Hot Encoding and Label Encoding. Dimentionality reduction is part of the feature extraction process that combines the existing features to produce more useful ones. The goal of dimensionality reduction is to simplify the data without loosing too much information. Principal Component Analysis (PCA) is one of the most popular dimensionality reduction algorithms. First, it identifies the hyperplane that lies closest to the data, and then it projects the data onto it. In this way, a few multidimensional features are merged into one.
 A hypothesis is a statement about a population. Hypothesis testing provides us a role to decide for which values of the test statistic we accept the null hypothesis and for which values we reject the null hypothesis and accept the alternative hypothesis. We evaluated and interpreted our resluts through hypothesis testing.
 
+At last, we completed a combined project which reflects all the above topics together. We chose Ames Housing Data which involves the lot area, all other amenities of the housing and corresponding sale price. At the beginning, we do EDA to get initial idea about the data, then did some feature engineering to get the useful features before building the machine learning model. At last we evaluated our results by performing hypothesis testing.
+
 ## Acknowledgement
 This exercise is for [IBM Machine Learning Professional Certificate Program](https://www.coursera.org/professional-certificates/ibm-machine-learning?).
 Thanks to Coursera and IBM for arranging this exercise to strengthen our knowledge. 
@@ -26,4 +28,4 @@ The source codes and Data files are as follows:
 
 
 ## Discussion
-After completing this exercise, I understand how we can do Exploratory Data Analysis and make the data ready for building the machine learning model.
+After completing this exercise, I understand how we can do Exploratory Data Analysis and make the data ready for building the machine learning model through feature engineering and hypothesis testing.
