@@ -4,7 +4,8 @@ This exercise is the combination of the following three topics:
 -  Exploratory Data Analysis (EDA)
 -  Feature Engineering
 -  Hypothesis Analysis
-Exploratory Data Analysis (EDA) is the crucial process of using summary statistics and graphical representations to perform preliminary investigations on data to uncover patterns, detect anomalies, test hypotheses, and verify assumptions.
+Exploratory Data Analysis (EDA) is the crucial process of using summary statistics and graphical representations to perform preliminary investigations on data to uncover patterns, detect anomalies, test hypotheses, and verify assumptions. We use Data Wrangling, Data Filtering and Data visualization with plotly.express library in this exercise.
+Feature Engineering is a critical part of the successful Machine Learning project, it involves three steps: feature transformation (transforming the original features), feature selection (selecting the most useful features to train on), and feature extraction (combining existing features to produce more useful ones). Categorical Variables are transferred by One Hot Encoding and Label Encoding.  
 
 ## Acknowledgement
 This exercise is for [IBM Machine Learning Professional Certificate Program](https://www.coursera.org/professional-certificates/ibm-machine-learning?).
